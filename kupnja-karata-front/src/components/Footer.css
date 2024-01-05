@@ -1,0 +1,11 @@
+footer {
+  margin-top: auto;
+  --dark-color: rgb(59, 59, 59);
+  --light-color: rgb(223, 222, 222);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--dark-color);
+  color: var(--light-color);
+  padding: 3rem;
+}
