@@ -7,13 +7,19 @@ const Navbar = () => {
   const navigate = useNavigate();
   return (
     <nav className="navbar">
-      <img
-        onClick={() => navigate("/home")}
-        src={require("../assets/cinematography-logo.png")}
-        alt="cinematography-logo "
-        height="100px"
-      />
+      <div className="logo" onClick={() => navigate("/home")}>
+        <img
+          src={require("../assets/logo.png")}
+          alt="cinematography-logo "
+          height="60px"
+        />
+        <div className="logo-name">
+          <span>Tickets</span>
+          <span>Purchase</span>
+        </div>
+      </div>
       <div className="menu" onClick={() => setMenuOpen((prev) => !prev)}>
+        <span></span>
         <span></span>
         <span></span>
       </div>

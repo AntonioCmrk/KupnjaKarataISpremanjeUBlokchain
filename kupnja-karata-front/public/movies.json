@@ -1,0 +1,1050 @@
+{
+  "results": [
+    {
+      "_id": "61e58ba58a5a6a599f43b4c7",
+      "id": "tt10080198",
+      "primaryImage": {
+        "id": "rm1939411713",
+        "width": 2025,
+        "height": 3000,
+        "url": "https://m.media-amazon.com/images/M/MV5BNWVhMTZkYTItMDI4ZC00ODBhLTg3MjktN2NjMTFmMzllM2ZjXkEyXkFqcGdeQXVyNjA3NDEyMTE@._V1_.jpg",
+        "caption": {
+          "plainText": "Kurt Oberhaus, Michael Joseph Pierce, Mohamed Hakeemshady, Bella Dontine, Justin Titus, and Robert Artz in A Lion's Game (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "A Lion's Game",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "A Lion's Game",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 12,
+        "month": 3,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58bdcb597b91eb943c11d",
+      "id": "tt10115998",
+      "primaryImage": {
+        "id": "rm459625729",
+        "width": 5220,
+        "height": 7695,
+        "url": "https://m.media-amazon.com/images/M/MV5BMmFhMTNiYmMtZmUwZS00ZWIyLTg4N2EtZTIyMjkzMTMyM2M1XkEyXkFqcGdeQXVyMTIzODU3OTI1._V1_.jpg",
+        "caption": {
+          "plainText": "The Cincinnati Spin (2025)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "The Cincinnati Spin",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "The Cincinnati Spin",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2025,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 10,
+        "month": 11,
+        "year": 2025,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58c6aef99b1c54343e375",
+      "id": "tt10209920",
+      "primaryImage": {
+        "id": "rm882431489",
+        "width": 8200,
+        "height": 12300,
+        "url": "https://m.media-amazon.com/images/M/MV5BNjc5ZGQwNjMtNGI3NC00Yzg3LTk4MjktMDgwYTcyZDhhNmRmXkEyXkFqcGdeQXVyMjE2MzA5MDI@._V1_.jpg",
+        "caption": {
+          "plainText": "Alien Wars: Judgement Day (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Alien Wars: Judgement Day",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Alien Wars: Judgement Day",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 29,
+        "month": 12,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58cf3b597b91eb9440527",
+      "id": "tt10300396",
+      "primaryImage": null,
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Untitled Taika Waititi Star Wars Film",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Untitled Taika Waititi Star Wars Film",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2026,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 22,
+        "month": 5,
+        "year": 2026,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58cf6e1a8ddbd96440553",
+      "id": "tt10300398",
+      "primaryImage": null,
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Star Wars: New Jedi Order",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Star Wars: New Jedi Order",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2027,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 17,
+        "month": 12,
+        "year": 2027,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58d61d735dff3f944218d",
+      "id": "tt10369928",
+      "primaryImage": {
+        "id": "rm2215757057",
+        "width": 1435,
+        "height": 1793,
+        "url": "https://m.media-amazon.com/images/M/MV5BOWE0NDk3ZGMtMDJmNC00MWZjLTkwMTYtMzU2MWJjNTMyNDM4XkEyXkFqcGdeQXVyNDQ3NTA1MTM@._V1_.jpg",
+        "caption": {
+          "plainText": "Vagabond Lover 1999 (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Vagabond Lover 1999",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Vagabond Lover 1999",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 22,
+        "month": 3,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58d87a66e59642344297b",
+      "id": "tt10399902",
+      "primaryImage": {
+        "id": "rm2898482945",
+        "width": 450,
+        "height": 630,
+        "url": "https://m.media-amazon.com/images/M/MV5BMTg4ZDYzZWItOWRhMS00OTFkLWEwYTctMDc2MDZkNmJjYThlXkEyXkFqcGdeQXVyNTE1MTU0Mzc@._V1_.jpg",
+        "caption": {
+          "plainText": "Boy Swollows Universe (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "TV Mini Series",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "TV Mini Series",
+        "id": "tvMiniSeries",
+        "isSeries": true,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "tv",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": true,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Boy Swollows Universe",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Boy Swallows Universe",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 11,
+        "month": 1,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58e44a66e596423445707",
+      "id": "tt10521010",
+      "primaryImage": {
+        "id": "rm4127568385",
+        "width": 792,
+        "height": 1080,
+        "url": "https://m.media-amazon.com/images/M/MV5BZWIyNzE3NzEtMGExNS00ZjRkLWJmMTYtMWFlNTNkNDgyNWUzXkEyXkFqcGdeQXVyODUwMzI5ODk@._V1_.jpg",
+        "caption": {
+          "plainText": "Dante Alighieri, Boris Acosta, and Dino Di Durante in The Divine Comedy: Inferno, Purgatory and Paradise (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "TV Series",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "TV Series",
+        "id": "tvSeries",
+        "isSeries": true,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "tv",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": true,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "The Divine Comedy: Inferno, Purgatory and Paradise",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "The Divine Comedy: Inferno, Purgatory and Paradise",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 21,
+        "month": 9,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58ea278c012aa34446beb",
+      "id": "tt10579986",
+      "primaryImage": {
+        "id": "rm878544897",
+        "width": 1217,
+        "height": 1792,
+        "url": "https://m.media-amazon.com/images/M/MV5BNDFmYWRhYmMtMDBiNS00OWZkLTk3ZmYtODMyZjdlMDFjNWNlXkEyXkFqcGdeQXVyNjA1NjIzMzQ@._V1_.jpg",
+        "caption": {
+          "plainText": "Mom's Coming (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Mom's Coming",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Mom's Coming",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 24,
+        "month": 11,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58ed678c012aa34447885",
+      "id": "tt10616590",
+      "primaryImage": {
+        "id": "rm1024176641",
+        "width": 1100,
+        "height": 1500,
+        "url": "https://m.media-amazon.com/images/M/MV5BNjMxNzRjMzQtOTI3Ny00ZmUyLTg4ZDMtMTA4NzdlNDZlYzhiXkEyXkFqcGdeQXVyODUwMzI5ODk@._V1_.jpg",
+        "caption": {
+          "plainText": "Vittorio Matteucci and Lalo Cibelli in The Divine Comedy: Inferno, Purgatory and Paradise (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "TV Episode",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "TV Episode",
+        "id": "tvEpisode",
+        "isSeries": false,
+        "isEpisode": true,
+        "categories": [
+          {
+            "value": "tv",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Dark Forest: Dante's Sins. Virgil appears.",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Dark Forest: Dante's Sins. Virgil appears.",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 21,
+        "month": 9,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58edab597b91eb9447acd",
+      "id": "tt10617026",
+      "primaryImage": {
+        "id": "rm3446649601",
+        "width": 1100,
+        "height": 1500,
+        "url": "https://m.media-amazon.com/images/M/MV5BMDg3MWRlZTEtNmFlMC00NDQ0LWE2ZTQtYjRmNjQwMDNlMjk5XkEyXkFqcGdeQXVyODUwMzI5ODk@._V1_.jpg",
+        "caption": {
+          "plainText": "Vittorio Gassman, Armand Mastroianni, Silvia Colloca, Boris Acosta, and Lalo Cibelli in The Divine Comedy: Inferno, Purgatory and Paradise (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "TV Episode",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "TV Episode",
+        "id": "tvEpisode",
+        "isSeries": false,
+        "isEpisode": true,
+        "categories": [
+          {
+            "value": "tv",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Beatrice Descends into Limbo. Virgil's Mission",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Beatrice Descends into Limbo. Virgil's Mission",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 21,
+        "month": 9,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58ee7b597b91eb9447de9",
+      "id": "tt10626750",
+      "primaryImage": {
+        "id": "rm1443607041",
+        "width": 792,
+        "height": 1080,
+        "url": "https://m.media-amazon.com/images/M/MV5BMmM3NWZkY2YtODYwNy00MzU3LWFkNjgtNTcwMzU4NWM0YTE2XkEyXkFqcGdeQXVyODUwMzI5ODk@._V1_.jpg",
+        "caption": {
+          "plainText": "Shirly Brener, Armand Mastroianni, Franco Nero, Silvia Colloca, Boris Acosta, Dino Di Durante, Aldo De Tata, and Lalo Cibelli in The Divine Comedy: Inferno, Purgatory and Paradise (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "TV Episode",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "TV Episode",
+        "id": "tvEpisode",
+        "isSeries": false,
+        "isEpisode": true,
+        "categories": [
+          {
+            "value": "tv",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "The Gate of Hell",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "The Gate of Hell",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 21,
+        "month": 9,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58eefd735dff3f9448043",
+      "id": "tt10631494",
+      "primaryImage": {
+        "id": "rm587641345",
+        "width": 792,
+        "height": 1080,
+        "url": "https://m.media-amazon.com/images/M/MV5BNjgzNzJjNDctODY2Mi00MTk4LWI4OWItOTdmNmVlOWE2ZTUwXkEyXkFqcGdeQXVyODUwMzI5ODk@._V1_.jpg",
+        "caption": {
+          "plainText": "Armand Mastroianni, Franco Nero, Vittorio Matteucci, Boris Acosta, Aldo De Tata, and Lalo Cibelli in The Divine Comedy: Inferno, Purgatory and Paradise (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "TV Episode",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "TV Episode",
+        "id": "tvEpisode",
+        "isSeries": false,
+        "isEpisode": true,
+        "categories": [
+          {
+            "value": "tv",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "First Circle: Limbo",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "First Circle: Limbo",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 21,
+        "month": 9,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58f64a66e596423449c45",
+      "id": "tt10707852",
+      "primaryImage": {
+        "id": "rm1476561665",
+        "width": 1146,
+        "height": 669,
+        "url": "https://m.media-amazon.com/images/M/MV5BMTkyMjA3MTMtN2RjMy00YzEzLWEyOGUtYTJlODdlOGEwODEwXkEyXkFqcGdeQXVyMTA1NjUwOTIw._V1_.jpg",
+        "caption": {
+          "plainText": "Chris Cutler in Killing Rainbow (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Killing Rainbow",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Killing Rainbow",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 30,
+        "month": 6,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e58ff1a66e59642344bf67",
+      "id": "tt10801048",
+      "primaryImage": null,
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "Short",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Short",
+        "id": "short",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Udesky's Destiny",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Udesky's Destiny",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2025,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 31,
+        "month": 10,
+        "year": 2025,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e5900195801a78bc44c481",
+      "id": "tt10811308",
+      "primaryImage": {
+        "id": "rm3211106049",
+        "width": 1920,
+        "height": 1487,
+        "url": "https://m.media-amazon.com/images/M/MV5BN2I4Yjg2YzYtNmMxZC00OGVmLWIyNmMtYjdiNTVjMjg2NmJlXkEyXkFqcGdeQXVyMzQxOTczNg@@._V1_.jpg",
+        "caption": {
+          "plainText": "Y++ (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "Video Game",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Video Game",
+        "id": "videoGame",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "gaming",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Y++",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Y++",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 24,
+        "month": 1,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e59035909c2ca78144cef3",
+      "id": "tt10844184",
+      "primaryImage": {
+        "id": "rm1730631681",
+        "width": 1200,
+        "height": 1800,
+        "url": "https://m.media-amazon.com/images/M/MV5BYTk4ZDU4NDQtYzVhNS00MDI3LWFkMDYtM2I2YTc0YmJjMTQ1XkEyXkFqcGdeQXVyMzE2NDI5NzI@._V1_.jpg",
+        "caption": {
+          "plainText": "Detour 95 (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Detour 95",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Detour 95",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 24,
+        "month": 10,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e5909a909c2ca78144e7ab",
+      "id": "tt10911604",
+      "primaryImage": null,
+      "titleType": {
+        "text": "Short",
+        "id": "short",
+        "isSeries": false,
+        "isEpisode": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Ghost Hollow: Another Vermont Urban Legend",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Ghost Hollow: Another Vermont Urban Legend",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2025,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 31,
+        "month": 10,
+        "year": 2025,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e590d7ef99b1c54344f635",
+      "id": "tt10953362",
+      "primaryImage": {
+        "id": "rm1617412097",
+        "width": 827,
+        "height": 1152,
+        "url": "https://m.media-amazon.com/images/M/MV5BZDQxYWYyYjItYjE0Mi00MDA0LWIwMTQtZmVlODNjYzUxYWEwXkEyXkFqcGdeQXVyNTI4OTM3NDA@._V1_.jpg",
+        "caption": {
+          "plainText": "ReVerso (2024)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "TV Series",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "TV Series",
+        "id": "tvSeries",
+        "isSeries": true,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "tv",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": true,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "ReVerso",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "ReVerso",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2024,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 11,
+        "month": 6,
+        "year": 2024,
+        "__typename": "ReleaseDate"
+      }
+    },
+    {
+      "_id": "61e590edb597b91eb944fbc9",
+      "id": "tt10967898",
+      "primaryImage": {
+        "id": "rm3487597825",
+        "width": 5107,
+        "height": 2160,
+        "url": "https://m.media-amazon.com/images/M/MV5BNmI0NDY5Y2QtYzU2MC00NzFkLWExYWQtYzJlOTFkYmQyZGYyXkEyXkFqcGdeQXVyODczNDEwMjk@._V1_.jpg",
+        "caption": {
+          "plainText": "Kevin Lucero Less in Brought in with the Dust (2025)",
+          "__typename": "Markdown"
+        },
+        "__typename": "Image"
+      },
+      "titleType": {
+        "displayableProperty": {
+          "value": {
+            "plainText": "",
+            "__typename": "Markdown"
+          },
+          "__typename": "DisplayableTitleTypeProperty"
+        },
+        "text": "Movie",
+        "id": "movie",
+        "isSeries": false,
+        "isEpisode": false,
+        "categories": [
+          {
+            "value": "movie",
+            "__typename": "TitleTypeCategory"
+          }
+        ],
+        "canHaveEpisodes": false,
+        "__typename": "TitleType"
+      },
+      "titleText": {
+        "text": "Brought in with the Dust",
+        "__typename": "TitleText"
+      },
+      "originalTitleText": {
+        "text": "Brought in with the Dust",
+        "__typename": "TitleText"
+      },
+      "releaseYear": {
+        "year": 2025,
+        "endYear": null,
+        "__typename": "YearRange"
+      },
+      "releaseDate": {
+        "day": 31,
+        "month": 10,
+        "year": 2025,
+        "__typename": "ReleaseDate"
+      }
+    }
+  ]
+}

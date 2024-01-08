@@ -1,0 +1,39 @@
+Movies API - https://rapidapi.com/elisbushaj2/api/movies-api14
+
+movies
+
+const url = 'https://movies-api14.p.rapidapi.com/movies';
+const options = {
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': 'c11de09264msh7db23a77cd0d361p1ca72bjsn6ae513b8f8cd',
+		'X-RapidAPI-Host': 'movies-api14.p.rapidapi.com'
+	}
+};
+
+try {
+	const response = await fetch(url, options);
+	const result = await response.text();
+	console.log(result);
+} catch (error) {
+	console.error(error);
+}
+
+home
+
+const url = 'https://movies-api14.p.rapidapi.com/home';
+const options = {
+	method: 'GET',
+	headers: {
+		'X-RapidAPI-Key': 'c11de09264msh7db23a77cd0d361p1ca72bjsn6ae513b8f8cd',
+		'X-RapidAPI-Host': 'movies-api14.p.rapidapi.com'
+	}
+};
+
+try {
+	const response = await fetch(url, options);
+	const result = await response.text();
+	console.log(result);
+} catch (error) {
+	console.error(error);
+}
