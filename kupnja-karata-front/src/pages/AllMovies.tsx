@@ -12,12 +12,14 @@ export const AllMovies = () => {
       })
       .catch((error) => console.log(error));
   }, []);
-  console.log(movies);
   return (
-    <div className="all-movies">
-      {movies.map((movie: any) => (
-        <MovieCard movie={movie} key={movie._id} />
-      ))}
-    </div>
+    <>
+      <h1>All program</h1>
+      <div className="all-movies">
+        {movies.slice(0, 16).map((movie: any) => (
+          <MovieCard movie={movie} key={movie._id} />
+        ))}
+      </div>
+    </>
   );
 };
